@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*
+*
+*
+Estilo para o conteudo do nosso site
+*
+*
+*/
+
+html,body{
+    height: 100;
+}
+
+.center{
+    box-sizing: border-box; /* css responsive */
+    width: 1280px;
+    margin: 0 auto;
+    background-color: rgb(71, 167, 231);
+    
+}
+
+.artigo{
+    box-sizing: border-box;
+    /*
+    border-style: dotted;
+    border-width: 5px;
+    border-color: rgb(230, 59, 7);
+    */
+    border: 5px dotted rgb(230,59,7);
+    vertical-align: top;
+    display: inline-block;
+    margin-right: -4px;
+    margin-top: 30px;
+    width: 640px;
+
+}
+

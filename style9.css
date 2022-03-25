@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*
+*
+*
+Estilo para o conteudo do nosso site
+*
+*
+*/
+
+html,body{
+    height: 100;
+}
+
+.center{
+    box-sizing: border-box; /* css responsive */
+    width: 1280px;
+    margin: 0 auto;
+    background-color: gray;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.artigo{
+    margin: 50px 30px 50px 30px;
+
+}
+

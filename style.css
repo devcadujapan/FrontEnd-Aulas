@@ -1,0 +1,8 @@
+/* Para uso do id */
+#div1 > h1{ 
+    color: red;
+}
+/* Para uso da Class */
+.div2 h1{
+    color: blue;
+}

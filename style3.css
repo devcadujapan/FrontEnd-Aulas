@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*
+Estilo para o conteudo do nosso site
+*/
+
+div{
+    width: 1280px;
+    background-color:rgb(123, 128, 128);
+    padding: 40px;
+    margin: 40px auto;
+    text-align: center;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    font-family: Arial;
+    font: bold;
+}
+
+.artigo1{
+    color:rgb(66, 149, 244);
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: normal;
+    font-variant: small-caps;   
+}
+
+.artigo2{
+    color: #f5f109;
+    text-align: left; 
+    font-size: 30px;
+    font-family: Verdana;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: small-caps;
+}
+
+.artigo3{
+    color: #04a82d;
+    text-align:right; 
+    font-size: 30px;
+    font-family: "Arial Black";
+    font-style: normal;
+    font-weight: normal;
+    font-variant: small-caps;
+}
